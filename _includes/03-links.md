@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+Check my GitHub link
+https://github.com/sstokimoto
