@@ -1,2 +1,1 @@
-Check my GitHub link
-https://github.com/sstokimoto
+[Check my GitHub link](https://github.com/sstokimoto)
