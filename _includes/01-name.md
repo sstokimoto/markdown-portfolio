@@ -1,1 +1,4 @@
-Replace this with your name, and include a header.
+# This is SStokimoto's markdown
+## First time using Markdown
+### Amazing how easy it can be
+###### this is smallest header
